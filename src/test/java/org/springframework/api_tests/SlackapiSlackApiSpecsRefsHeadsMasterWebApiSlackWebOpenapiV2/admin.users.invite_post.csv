@@ -1,0 +1,12 @@
+team_id,email,channel_ids,custom_message,real_name,resend,is_restricted,is_ultra_restricted,guest_expiration_ts
+"T1234567890","test@example.com","C1234567890,C0987654321","Welcome to our team!","John Doe","true","false","false","1640995200"
+"T0987654321","user@company.com","C1111111111","","Jane Smith","false","true","false",""
+"T5555555555","guest@external.com","C2222222222","Please join our project channel","Guest User","false","false","true","1672531200"
+"T1234567890","minimal@example.com","C1234567890","JSON request test","JSON User","true","false","false","1640995200"
+"T0987654321","required@company.com","C1111111111,C2222222222","","API User","false","true","false",""
+"T1234567890","json@example.com","C1234567890","JSON request test","JSON User","true","true","false","1640995200"
+"T0987654321","api@company.com","C1111111111,C2222222222","","API User","false","false","true",""
+"T1234567890","bool1@example.com","C1234567890","JSON request test","JSON User","true","false","false","1640995200"
+"T0987654321","bool2@example.com","C1111111111,C2222222222","","API User","false","true","true",""
+"T1234567890","bool3@example.com","C1234567890","JSON request test","JSON User","true","false","false","1640995200"
+"T0987654321","bool4@example.com","C1111111111,C2222222222","","API User","false","true","true",""
