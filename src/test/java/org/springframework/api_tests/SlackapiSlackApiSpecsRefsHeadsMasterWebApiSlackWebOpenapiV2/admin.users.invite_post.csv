@@ -1,0 +1,12 @@
+team_id,email,channel_ids,custom_message,real_name,resend,is_restricted,is_ultra_restricted,guest_expiration_ts
+"T1234567","user@example.com","C1234567","Welcome to our workspace!","John Doe","true","false","false","1672531200"
+"T9876543","test@domain.com","C1111111,C2222222","Join our team","Jane Smith","false","true","false","1672531200"
+"T1234567","user1@example.com","C1234567","Limited access invite","Bob Johnson","false","false","true","1672531200"
+"T9876543","user2@example.com","C1111111,C2222222","JSON invite","JSON User","true","false","false","1672531200"
+"T5555555","user3@example.com","C3333333","API test","API Tester","false","true","false","1672531200"
+"T1234567","json@example.com","C1234567","JSON invite","JSON User","true","true","false","1672531200"
+"T9876543","api@domain.com","C1111111","API test","API Tester","false","false","true","1672531200"
+"T1234567","json@example.com","C1234567","JSON invite","JSON User","true","false","false","1672531200"
+"T9876543","api@domain.com","C1111111","API test","API Tester","false","true","true","1672531200"
+"T1234567","json@example.com","C1234567","JSON invite","JSON User","true","false","false","1672531200"
+"T9876543","api@domain.com","C1111111","API test","API Tester","false","true","true","1672531200"
