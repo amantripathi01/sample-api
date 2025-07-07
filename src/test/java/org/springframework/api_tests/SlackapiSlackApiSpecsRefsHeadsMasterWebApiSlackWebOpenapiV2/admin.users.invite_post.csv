@@ -1,0 +1,9 @@
+token,team_id,email,channel_ids,custom_message,real_name,resend,is_restricted,is_ultra_restricted,guest_expiration_ts
+"xoxb-valid-token","T1234567890","user@example.com","C1234567890,C0987654321","Welcome to our team!","John Doe","true","false","false","1640995200"
+"xoxb-valid-token","T1234567890","admin@example.com","C1234567890","","Jane Smith","false","true","false",""
+"xoxb-valid-token","T1234567890","guest@example.com","C1234567890","","","false","false","true","1640995200"
+"xoxb-valid-token","T1234567890","minimal@example.com","C1234567890","","Jane Smith","true","false","false",""
+"xoxb-valid-token","T0987654321","test@example.com","C0987654321,C1111111111","","","false","true","false","1640995200"
+"xoxb-valid-token","T1234567890","user@example.com","C1234567890","","Jane Smith","false","false","true",""
+"xoxb-valid-token","T1234567890","user2@example.com","C1234567890","","","false","true","false","1640995200"
+"xoxb-valid-token","T1234567890","user3@example.com","C1234567890","","Jane Smith","false","false","true",""
